@@ -1,0 +1,4 @@
+Learning C language
+Learning python
+installing visual studio code
+learning putty
